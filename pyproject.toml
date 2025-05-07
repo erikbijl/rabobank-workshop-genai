@@ -20,6 +20,8 @@ dependencies = [
     "langchain-community (>=0.3.23,<0.4.0)",
     "pypdf (>=5.4.0,<6.0.0)",
     "gradio (>=5.29.0,<6.0.0)",
+    "matplotlib (>=3.10.1,<4.0.0)",
+    "seaborn (>=0.13.2,<0.14.0)",
 ]
 
 [tool.poetry.dependencies]

@@ -178,3 +178,4 @@ cython_debug/
 credentials.env
 .DS_Store
 .gradio/certificate.pem
+ws.env
